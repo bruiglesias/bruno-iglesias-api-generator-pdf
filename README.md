@@ -5,7 +5,7 @@ API básica em NodeJS para a geração de PDF
 
 A aplicação recebe um texto ou html por meio de POST Request e devolve por meio de Response um arquivo em PDF gerado.
 
-## Preview Mobile
+## Preview 
 
 <img src="https://github.com/bruiglesias/bruno-iglesias-api-generator-pdf/blob/master/api_pdf.png" width="600"/>
 
